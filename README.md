@@ -1,6 +1,10 @@
 # slogx
 
-A simple colorful `slog` handler.
+A simple colorful [`slog`](https://pkg.go.dev/log/slog) handler.  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d7e1727c-d173-4e01-8014-92d3263439c3">
+</p>
 
 ## Installation
 
